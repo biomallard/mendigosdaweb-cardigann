@@ -1,6 +1,6 @@
 # Mendigos da Web Cardigann
 
-Este README irá guiá-lo pelo processo de adição do Mendigos da Web como um tracker customizado na sua instalação do Jackett/Prowlarr, usando o arquivo de configuração [mendigosdaweb-api.yml](https://github.com/soganakamaro/mendigosdaweb-cardigann/blob/main/mendigosdaweb-api.yaml)
+Este README irá guiá-lo pelo processo de adição do Mendigos da Web como um tracker customizado na sua instalação do Jackett/Prowlarr, usando o arquivo de configuração [mendigosdaweb-api.yml](https://github.com/soganakamaro/mendigosdaweb-cardigann/blob/main/mendigosdaweb-api.yml)
 
 # Pré-requisitos
 
@@ -13,7 +13,7 @@ Este README irá guiá-lo pelo processo de adição do Mendigos da Web como um t
 
    Primeiramente, baixe o arquivo de configuração `mendigosdaweb-api.yml` no seguinte link:
    
-   [mendigosdaweb-api.yml](https://github.com/soganakamaro/mendigosdaweb-cardigann/blob/main/mendigosdaweb-api.yaml)
+   [mendigosdaweb-api.yml](https://github.com/soganakamaro/mendigosdaweb-cardigann/blob/main/mendigosdaweb-api.yml)
 
 4. **Mova o arquivo para o diretório de definições do Jackett**
 
@@ -53,7 +53,7 @@ Este README irá guiá-lo pelo processo de adição do Mendigos da Web como um t
 
    Primeiramente, baixe o arquivo de configuração `mendigosdaweb-api.yml`no seguinte link:
    
-   [mendigosdaweb-api.yml](https://github.com/soganakamaro/mendigosdaweb-cardigann/blob/main/mendigosdaweb-api.yaml)
+   [mendigosdaweb-api.yml](https://github.com/soganakamaro/mendigosdaweb-cardigann/blob/main/mendigosdaweb-api.yml)
 
 2. **Crie um diretório de definições customizadas do Prowlarr**
 

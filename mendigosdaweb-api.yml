@@ -1,7 +1,7 @@
 ---
 id: mendigosdaweb-api
 name: Mendigos da Web (API)
-description: "Mendigos da WEB é um banco de dados que "TEMOS UM POUCO DE TUDO": Cursos / Livros / Apostilas / Filmes / Séries / Softwares e Jogos, construído pela comunidade"
+description: "Mendigos da WEB é um banco de dados que 'TEMOS UM POUCO DE TUDO': Cursos / Livros / Apostilas / Filmes / Séries / Softwares e Jogos, construído pela comunidade"
 language: pt-BR
 type: private
 encoding: UTF-8
@@ -14,7 +14,7 @@ caps:
     - {id: 7, cat: Books, desc: "Livros"}
     - {id: 8, cat: Audio/Audiobook, desc: "Music"}
     - {id: 9, cat: Other, desc: "Material de Apoio"}
-    - {id: 1, cat: Movie, desc: "Filmes"}
+    - {id: 1, cat: Movies, desc: "Filmes"}
     - {id: 2, cat: TV, desc: "TV Series"}
     - {id: 10, cat: Console, desc: "Jogos"}
 
